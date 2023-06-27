@@ -1,0 +1,2 @@
+ip privada
+inet:10.0.2.15
